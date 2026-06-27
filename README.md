@@ -5,7 +5,7 @@
 **Общий пул рабочих VPN-серверов, который наполняет само сообщество.**
 Каждый делится подписками — каждый получает доступ ко всем проверенным серверам.
 
-[![Service](https://img.shields.io/badge/service-vlesscommunity.online-6366f1?style=for-the-badge)](https://vlesscommunity.online)
+[![Service](https://img.shields.io/badge/service-vainblade.duckdns.org-6366f1?style=for-the-badge)](https://vainblade.duckdns.org)
 [![License](https://img.shields.io/github/license/vainbladegh/vlesscommunity?style=for-the-badge)](LICENSE)
 [![Changelog](https://img.shields.io/badge/changelog-here-818cf8?style=for-the-badge)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ VPN-серверов. Люди добавляют свои подписки и s
 Ты получаешь **одну ссылку-подписку** — и сразу десятки рабочих серверов прямо
 в своём клиенте, без ручной настройки.
 
-🔗 **Сервис:** **https://vlesscommunity.online**
+🔗 **Сервис:** **https://vainblade.duckdns.org**
 
 ### ✨ Возможности
 
@@ -49,7 +49,7 @@ VPN-серверов. Люди добавляют свои подписки и s
 
 ### 🚀 Как пользоваться
 
-1. Открой **https://vlesscommunity.online**
+1. Открой **https://vainblade.duckdns.org**
 2. Скопируй ссылку подписки с сайта
 3. Вставь её в свой VPN-клиент и обнови подписку — готово
 
@@ -86,7 +86,7 @@ checks them for liveness in real time and keeps only the working ones. You get a
 **single subscription link** with dozens of working servers in your client — no
 manual setup.
 
-🔗 **Service:** **https://vlesscommunity.online**
+🔗 **Service:** **https://vainblade.duckdns.org**
 
 ### ✨ Features
 
@@ -103,7 +103,7 @@ manual setup.
 
 ### 🚀 How to use
 
-1. Open **https://vlesscommunity.online**
+1. Open **https://vainblade.duckdns.org**
 2. Copy the subscription link
 3. Paste it into your client and refresh — done
 
@@ -138,7 +138,7 @@ registration**.
 自己的订阅和分享链接；服务实时检测其可用性，只保留有效的服务器。你只需**一个订阅
 链接**，即可在客户端中获得数十个可用服务器，无需手动配置。
 
-🔗 **服务：** **https://vlesscommunity.online**
+🔗 **服务：** **https://vainblade.duckdns.org**
 
 ### ✨ 功能
 
@@ -153,7 +153,7 @@ registration**.
 
 ### 🚀 使用方法
 
-1. 打开 **https://vlesscommunity.online**
+1. 打开 **https://vainblade.duckdns.org**
 2. 复制订阅链接
 3. 粘贴到客户端并刷新订阅 —— 完成
 
@@ -184,6 +184,6 @@ TCP / WebSocket / gRPC / xhttp / httpupgrade / h2 · Reality / TLS
 
 <div align="center">
 
-Made with ❤️ for the community · [vlesscommunity.online](https://vlesscommunity.online)
+Made with ❤️ for the community · [vainblade.duckdns.org](https://vainblade.duckdns.org)
 
 </div>
